@@ -1,3 +1,3 @@
 # HTML-and-CSS
 #First exercise that we wrote a code 
-#Adding images and videos in CSS
+#Adding images and videos 
